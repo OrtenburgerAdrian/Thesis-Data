@@ -591,7 +591,7 @@
 1;Gestern Nachmittag gab es einen Newsletter, der für diese Direktverbindung nach Graubünden warb. Verbunden mit der Aussage, dass es 10.000 Sparpreistickets bis Jahresende zusätzlich gibt. Gestern Abend habe ich nicht ein einziges 39€-Ticket an keinem der Tage bis Jahresende gefunden. Wie kann das sein? Schon in 3-4 Stunden alles ausverkauft? Oder waren nur 500 der 10.000 Sparpreistickets 39€-Tickets? Ziemlich enttäuschend :-(
 0;Gestern habe ich mir mühevoll Tickets rausgesucht, konnte aber den Buchungsvorgang wegen der Wartung nicht abschließen. Die Info über die Wartungsarbeiten sah ich erst beim letzten Buchungsschritt. Und heute kosten die gewünschten Tickets das Doppelte! Absolute Frechheit! Dann fahre ich in Zukunft doch lieber mit dem PKW oder Fernbussen!
 0;Gestern und heute wieder kein BarBistro im IC Berlijn - Amsterdam am Montag fahren wir die ganze Strecke von Amsterdam nach Berlin, lass da bitte ein BarBistro in mit fahren.
-1;Gewonnen
+2;Gewonnen
 1;Gibt es auch passive Bahnübergänge?
 1;Gibt es denn wenigstens das Sandmännchen ?.
 1;Gisela Buhr - Ich kann Ihr Anliegen leider nicht nachvollziehen. /da
@@ -1500,7 +1500,7 @@
 0;Was bringt euch das schöne Gebäude wenn ihr euerer Dienstleistung nicht nachkommt  Wechselt lieber mal die Weichen aus die schon seit 1962 auf den Schienen liegen dann kommt es villeicht weniger zu Weichenstörung !!!! Nur so eine Idee
 1;Was das iPhone nur für Vorschläge macht :)
 1;Was geht denn bei dir ab?
-1;Was hast du nun gewonnen?
+2;Was hast du nun gewonnen?
 1;Was hat dies nun mit Ihrem eigentlichen Anliegen bezüglich des Lidl-Tickets zu tun? Wenn es um eine Entschädigung aufgrund einer Zugverspätung geht, lässt sich dazu sagen, dass das Servicecenter Fahrgastrechte unabhängig von der Deutschen Bahn Ihre Ansprüche prüft und grundsätzlich eine Auflistung erfolgt, wie sich der Entschädigungsbeitrag zusammen setzt oder auch der Grund genannt wird, weshalb Sie kein Geld zurück erhalten. Wenn es sich um eine Stornierung und ggf. Neubuchung einer Fahrkarte handelt, dann erfolgt die Abbuchung und Gutschrift des Betrages in einigen Fällen zusammen auf Ihrem Konto. /sy
 0;Was heißt hier noch einmal? Ihr seid für den Normalbürger keine Alternative
 1;Was ist Lfd. und welches Falkenberg meinen Sie? /si
@@ -1533,7 +1533,7 @@
 0;Wenn ihr im Bahnverkehr nur halb so gut wäret wie hier wäre das schonmal eine Maßnahme. ich erinnere an die letzten Tage Bahnfahrt😠
 0;Wenn man aber schon 3,90 € zahlt für den Versand dann ist das eigentlich schon versicherter Versand und dann würde man nicht so ein Problem haben. Egal. Ich versuche mein Glück ansonsten gehe ich andere Wege falls mein Geld nicht erstattet wird.
 0;Wenn man konsequent gewesen wäre, hätte man die Züge gleich neu lackiert. Bordeauxrote Klamotten und knallrote Züge beißt sich extrem. ABER die DB AG hat momentan GANZ andere Probleme!!!
-1;Wer hat gewonnen? 
+2;Wer hat gewonnen? 
 1;Wer hat’s gewusst? Gesucht war die Gotthard-Strecke bei Wassen (Kanton Uri). Danke fürs Mitmachen! Wir wünschen Ihnen einen besinnlichen 2. Weihnachtsfeiertag. /mi
 2;Wer in nostalgischer, ruhiger und entschleunigter Weise eine romantische Bahnfahrt im Bummelzug machen möchte dem empfehle ich die Strecke Berlin - München im neuen ICE.
 2;Wer kannte die Bahnhofsfront? Sie gehört zum Empfangsgebäude des Hauptbahnhofs in Halle (Saale). Vielen Dank an die Rater und einen schönen 3. Adventsabend! /mi
